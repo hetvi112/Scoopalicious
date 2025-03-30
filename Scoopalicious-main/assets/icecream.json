@@ -1,0 +1,96 @@
+{
+    "icecreams":[
+        {
+            "id":0,
+            "category":"classic",
+            "isFeatured":true,
+            "flavor": "Vanilla",
+            "description": "Classic and creamy vanilla flavor",
+            "toppings": ["Chocolate Sauce", "Sprinkles", "Whip"],
+            "price": 99,
+            "image": "https://images.unsplash.com/photo-1560008581-09826d1de69e?q=80&w=1944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients":[
+                { "name": "Vanilla Extract", "quantity": "2 tsp" },
+                { "name": "Heavy Cream", "quantity": "2 cups 1." },
+                { "name": "Sugar", "quantity": "3/4 cup"}
+                ]
+        },
+
+        {
+            "id":1,
+            "category":"classic",
+            "isFeatured":true,
+            "flavor": "Chocolate",
+            "description": "Classic and creamy vanilla flavor",
+            "toppings": ["Chocolate Sauce", "Sprinkles", "Whip"],
+            "price": 150,
+            "image": "https://images.unsplash.com/photo-1514849302-984523450cf4?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients":[
+                { "name": "Vanilla Extract", "quantity": "2 tsp" },
+                { "name": "Heavy Cream", "quantity": "2 cups 1." },
+                { "name": "Sugar", "quantity": "3/4 cup"}
+                ]
+        },
+        {
+            "id":2,
+            "category":"classic",
+            "isFeatured":true,
+            "flavor": "Strawberry",
+            "description": "Classic and creamy vanilla flavor",
+            "toppings": ["Chocolate Sauce", "Sprinkles", "Whip"],
+            "price": 80,
+            "image": "https://plus.unsplash.com/premium_photo-1661288452010-951ca57991fc?q=80&w=1779&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients":[
+                { "name": "Vanilla Extract", "quantity": "2 tsp" },
+                { "name": "Heavy Cream", "quantity": "2 cups 1." },
+                { "name": "Sugar", "quantity": "3/4 cup"}
+                ]
+        } ,
+        {
+            "id":3,
+            "category":"classic",
+            "isFeatured":true,
+            "flavor": "Vanilla",
+            "description": "Classic and creamy vanilla flavor",
+            "toppings": ["Chocolate Sauce", "Sprinkles", "Whip"],
+            "price": 200,
+            "image": "https://images.pexels.com/photos/1294943/pexels-photo-1294943.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "ingredients":[
+                { "name": "Vanilla Extract", "quantity": "2 tsp" },
+                { "name": "Heavy Cream", "quantity": "2 cups 1." },
+                { "name": "Sugar", "quantity": "3/4 cup"}
+                ]
+        },
+
+        {
+            "id":4,
+            "category":"classic",
+            "isFeatured":true,
+            "flavor": "Chocolate",
+            "description": "Classic and creamy vanilla flavor",
+            "toppings": ["Chocolate Sauce", "Sprinkles", "Whip"],
+            "price": 299,
+            "image": "https://images.unsplash.com/photo-1614014077943-840960ce6694?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients":[
+                { "name": "Vanilla Extract", "quantity": "2 tsp" },
+                { "name": "Heavy Cream", "quantity": "2 cups 1." },
+                { "name": "Sugar", "quantity": "3/4 cup"}
+                ]
+        },
+        {
+            "id":5,
+            "category":"classic",
+            "isFeatured":true,
+            "flavor": "Strawberry",
+            "description": "Classic and creamy vanilla flavor",
+            "toppings": ["Chocolate Sauce", "Sprinkles", "Whip"],
+            "price": 250,
+            "image": "https://images.pexels.com/photos/1352281/pexels-photo-1352281.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "ingredients":[
+                { "name": "Vanilla Extract", "quantity": "2 tsp" },
+                { "name": "Heavy Cream", "quantity": "2 cups 1." },
+                { "name": "Sugar", "quantity": "3/4 cup"}
+                ]
+        }
+    ]
+}
